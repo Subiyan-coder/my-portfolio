@@ -1,16 +1,40 @@
-# React + Vite
+# Mohamed Muneerul Subiyan .R - Personal Portfolio 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and highly optimized personal developer portfolio built from scratch to showcase full-stack cloud applications, backend architectures, and database management skills. 
 
-Currently, two official plugins are available:
+Live Deployment: [View Portfolio Here](https://my-portfolio-six-lyart-41.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack & Architecture
+* **Frontend Framework:** React.js (Bootstrapped with Vite for instant server start and optimized build times)
+* **Styling:** Tailwind CSS v4 (Utility-first styling for a sleek, minimalist tech aesthetic)
+* **Icons:** React Icons & custom SVGs for zero-latency loading
+* **Deployment:** Vercel (Continuous Integration/Continuous Deployment)
 
-## React Compiler
+## 💻 Featured Projects Showcased
+1. **Task Management System (MERN Stack):** A full-stack application featuring Role-Based Access Control (RBAC), JWT authentication, and real-time MongoDB database updates.
+2. **Student Records Manager (Python/MySQL):** A robust backend system deployed on Render and Aiven Cloud, maintained by automated cron-job systems for 100% 24/7 API uptime.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ⚙️ Running the Project Locally
+If you want to clone this repository and run it on your local machine:
 
-## Expanding the ESLint configuration
+1. Clone the repository:
+   
+   git clone [https://github.com/Subiyan-coder/my-portfolio.git](https://github.com/Subiyan-coder/my-portfolio.git)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2.  Navigate into the directory:
+
+cd my-portfolio
+
+3. Install the dependencies:
+
+npm install
+
+4. Start the Vite development server:
+
+npm run dev
+
+5. Open your browser and visit http://localhost:5173/
+
+
+### Send it to Vercel (The Magic Part)
+Because you already connected this repository to Vercel, you don't even need to open the Vercel website to update your live site! Vercel listens to your GitHub. As soon as you push these new changes, Vercel will automatically rebuild the site in the background and update your live URL.
