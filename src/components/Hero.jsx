@@ -41,7 +41,7 @@ export default function Hero() {
           View My Work
         </a>
         
-        <a href="https://drive.google.com/file/d/1vYMf3i_2wx_A3hcvIyRxBdHoLZU8mkOc/view?usp=drivesdk target="_blank" rel="noopener noreferrer" className="bg-white text-slate-900 px-8 py-3 rounded-lg font-semibold shadow-sm border border-slate-200 hover:bg-slate-100 transition duration-300 flex items-center gap-2">
+        <a href="https://drive.google.com/file/d/1vYMf3i_2wx_A3hcvIyRxBdHoLZU8mkOc/view?usp=drivesdk" target="_blank" rel="noopener noreferrer" className="bg-white text-slate-900 px-8 py-3 rounded-lg font-semibold shadow-sm border border-slate-200 hover:bg-slate-100 transition duration-300 flex items-center gap-2">
           📄 View Resume
         </a>
       </div>
